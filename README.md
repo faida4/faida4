@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 |--------|--------------|---------------|
 | 🎓 [HoraTech](https://github.com/tonlien/itac_projet) | Application web de **gestion d’horaires** avec détection de conflits, filtres dynamiques et drag & drop. | React, Django, PostgreSQL |
 | 🧩 [Quiz Game Realtime](https://github.com/tonlien/quiz-game-realtime) | Jeu questionnaire **multijoueur en temps réel** avec Socket.IO. Les joueurs répondent le plus vite possible pour gagner des points. | React, Node.js, Socket.IO |
-| 📦 [Inventory Management App](https://github.com/tonlien/inventory-management-app) | Application CRUD complète de **gestion d’inventaire**, avec authentification et statistiques. | React, Django, PostgreSQL |
+| 📦 [Inventory Management App](https://github.com/faida4/inventory-management-app) | Application CRUD complète de **gestion d’inventaire**, avec authentification et statistiques. | React, Django, PostgreSQL |
 | 🚗 [Parking System IoT](https://github.com/tonlien/parking-system) | Système intelligent de **gestion de stationnement** (capteurs ultrasoniques + servo moteur). | Python, IoT, Raspberry Pi |
 | 🤖 [Allergen Detector](https://github.com/faida4/allergen-detector) | Détection automatique des **allergènes dans les menus** à partir d’images et de texte. | spaCy, Streamlit, NLP |
 
