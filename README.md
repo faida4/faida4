@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 | 🍷 [Wine Order](https://github.com/faida4/wine-order-mvc) | Application simple de **prise de commandes de vin** : formulaire client/produit, **enregistrement**, puis **confirmation** avec **numéro** et **date/heure**. | ASP.NET Core MVC, EF Core, SQL Server/SQLite, Bootstrap |
 | 🧩 [Quiz Game Realtime](https://github.com/faida4/quiz-game-realtime) | Jeu questionnaire **multijoueur en temps réel** avec Socket.IO. Les joueurs répondent le plus vite possible pour gagner des points. | React, Node.js, Socket.IO |
 | 📦 [Inventory Management App](https://github.com/faida4/inventory-management-app) | Application CRUD complète de **gestion d’inventaire**, avec authentification et statistiques. | React, Django, PostgreSQL |
-| 🚗 [Parking System IoT](https://github.com/tonlien/parking-system) | Système intelligent de **gestion de stationnement** (capteurs ultrasoniques + servo moteur). | Python, IoT, Raspberry Pi |
 | 🤖 [Allergen Detector](https://github.com/faida4/allergen-detector) | Détection automatique des **allergènes dans les menus** à partir d’images et de texte. | spaCy, Streamlit, NLP |
 
 ---
@@ -72,9 +71,6 @@ Here are some ideas to get you started:
 🌱 Je développe actuellement mes compétences en **intelligence artificielle appliquée au web**.  
 📚 J’adore apprendre, documenter et partager mes projets.  
 
-📫 **Contact :**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faida_DJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faida-dj)  
-[![Email](https://img.shields.io/badge/Email-faidadj%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faidadj@example.com)
 
 ---
 
