@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 | Projet | Description | Technologies |
 |--------|--------------|---------------|
 | 🎓 [HoraTech](https://github.com/faida4/HoraTech) | Application web de **gestion d’horaires** avec détection de conflits, filtres dynamiques et drag & drop. | React, Django, PostgreSQL |
+| 🍷 [Wine Order](https://github.com/faida4/wine-order-mvc) | Application simple de **prise de commandes de vin** : formulaire client/produit, **enregistrement**, puis **confirmation** avec **numéro** et **date/heure**. | ASP.NET Core MVC, EF Core, SQL Server/SQLite, Bootstrap |
 | 🧩 [Quiz Game Realtime](https://github.com/faida4/quiz-game-realtime) | Jeu questionnaire **multijoueur en temps réel** avec Socket.IO. Les joueurs répondent le plus vite possible pour gagner des points. | React, Node.js, Socket.IO |
 | 📦 [Inventory Management App](https://github.com/faida4/inventory-management-app) | Application CRUD complète de **gestion d’inventaire**, avec authentification et statistiques. | React, Django, PostgreSQL |
 | 🚗 [Parking System IoT](https://github.com/tonlien/parking-system) | Système intelligent de **gestion de stationnement** (capteurs ultrasoniques + servo moteur). | Python, IoT, Raspberry Pi |
