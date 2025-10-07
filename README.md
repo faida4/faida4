@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 | 🧩 [Quiz Game Realtime](https://github.com/faida4/quiz-game-realtime) | Jeu questionnaire **multijoueur en temps réel** avec Socket.IO. Les joueurs répondent le plus vite possible pour gagner des points. | React, Node.js, Socket.IO |
 | 📦 [Inventory Management App](https://github.com/faida4/inventory-management-app) | Application CRUD complète de **gestion d’inventaire**, avec authentification et statistiques. | React, Django, PostgreSQL |
 | 🤖 [Allergen Detector](https://github.com/faida4/allergen-detector) | Détection automatique des **allergènes dans les menus** à partir d’images et de texte. | spaCy, Streamlit, NLP |
+| 🎯 [Real-Time Detection](https://github.com/faida4/real-time-detection-python) | Application de **détection d’objets et de poses humaines en temps réel** à l’aide d’OpenCV et OpenPose. | Python, OpenCV, TensorFlow |
 
 ---
 
